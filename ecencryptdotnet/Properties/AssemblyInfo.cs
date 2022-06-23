@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("jc")]
 [assembly: AssemblyProduct("ecencryptdotnet")]
-[assembly: AssemblyCopyright("Copyright © EdgeCast Networks 2010")]
+[assembly: AssemblyCopyright("Copyright © Edgio Networks 2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
